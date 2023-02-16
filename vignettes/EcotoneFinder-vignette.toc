@@ -1,0 +1,26 @@
+\contentsline {subsection}{Introduction}{2}{section*.2}%
+\contentsline {subsection}{Artificial data generation:}{2}{section*.4}%
+\contentsline {subsubsection}{Data series}{5}{section*.8}%
+\contentsline {subsection}{Internal structure of the data:}{6}{section*.11}%
+\contentsline {subsection}{Community detection along gradients:}{9}{section*.14}%
+\contentsline {subsubsection}{Detrended Correspondance Analyses (DCA):}{10}{section*.15}%
+\contentsline {subsubsection}{Fuzzy clustering:}{11}{section*.18}%
+\contentsline {paragraph}{Number of groups:}{13}{section*.20}%
+\contentsline {paragraph}{Membership exponent:}{13}{section*.21}%
+\contentsline {paragraph}{Seed:}{13}{section*.22}%
+\contentsline {subsubsection}{Diversity indices:}{14}{section*.24}%
+\contentsline {subsubsection}{Visualisation with ggplot grammar:}{15}{section*.26}%
+\contentsline {subsection}{Colouring community types on a plot:}{18}{section*.30}%
+\contentsline {subsection}{Characterising communities:}{18}{section*.32}%
+\contentsline {subsubsection}{Community composition:}{18}{section*.33}%
+\contentsline {subsubsection}{Networks:}{22}{section*.37}%
+\contentsline {subsection}{Characterising ecotones:}{25}{section*.40}%
+\contentsline {subsubsection}{Ecotones metrics:}{25}{section*.41}%
+\contentsline {subsubsection}{Slopes, and derivatives of community structure:}{26}{section*.43}%
+\contentsline {subsubsection}{Extracting ecotone metrics:}{28}{section*.45}%
+\contentsline {paragraph}{Shapes of community edges and ecotone properties:}{30}{section*.46}%
+\contentsline {subsubsection}{Ecotonal species and species response to ecotones:}{30}{section*.47}%
+\contentsline {subsection}{Data series and networks:}{34}{section*.51}%
+\contentsline {subsubsection}{Networks across data series:}{37}{section*.55}%
+\contentsline {subsubsection}{Statistical groups in networks:}{41}{section*.60}%
+\contentsline {subsection}{Concluding remarks:}{43}{section*.62}%

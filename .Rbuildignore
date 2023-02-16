@@ -1,0 +1,11 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^cran-comments\.md$
+^CRAN-RELEASE$
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# Output files from R CMD build
+/*.tar.gz
